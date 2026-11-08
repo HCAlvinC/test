@@ -121,7 +121,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        For more info, Check out discord!
+                        For more info, Check our discord!
                     </p>
                 </div>
             </div>
